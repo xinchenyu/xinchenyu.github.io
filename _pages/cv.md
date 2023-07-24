@@ -1,9 +1,9 @@
 ---
-layout: cv
+layout: page
 permalink: /cv/
-title: cv
+title: CV
 nav: true
 nav_order: 4
-cv_pdf: example_pdf.pdf
-description: This is a description of the page. You can modify it in 'pages/_cv.md'. You can also change or remove the top pdf download button.
 ---
+
+Here is my [Curriculum Vitae (pdf)](https://drive.google.com/file/d/1HsASU0LBf8iet0TrcQ-ieNusFMN1SXvO/view). This CV is often outdated by a few months.

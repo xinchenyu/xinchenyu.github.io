@@ -1,12 +1,16 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
 nav: true
-nav_order: 5
+nav_order: 3
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+* At [University of Arizona](https://www.arizona.edu/):
+    * Fall 2023, CSC 110 Introduction to Computer Programming I
+    * Fall 2023, [CSC 380 Principle of Data Science](https://xinchenyu.github.io/csc380-fall23/)
 
-Organize your courses by years, topics, or universities, however you like!
+ <br>
+* At [University of North Texas](https://www.unt.edu/index.html):
+    * Fall 2022, INFO 4670 Information Discovery and Delivery
+
