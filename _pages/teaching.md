@@ -12,7 +12,7 @@ nav_order: 3
         * Fall 2023
     * [CSC 380 Principle of Data Science](https://xinchenyu.github.io/csc380-spring24/)
         * Spring 2024
-        * Fall 2023
+        * Fall 2023 
 
  <br>
 * At [University of North Texas](https://www.unt.edu/index.html):
