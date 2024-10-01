@@ -21,9 +21,11 @@ social: true  # includes social icons at the bottom of the  page
 I am an Assistant Professor of Practice in the [Computer Science Department](https://www.cs.arizona.edu/) at [University of Arizona](https://www.arizona.edu/).
 
 I received my Ph.D. from [University of North Texas](https://informationscience.unt.edu/) in 2023.
-Before that, I earned a Master's degree (2019) from [University of Pittsburgh](https://www.sci.pitt.edu/) and a Bachelor's degree (2017) from [Zhejiang University](https://www.zju.edu.cn/english/).
+Before that, I earned a Master's degree from [University of Pittsburgh](https://www.sci.pitt.edu/) and a Bachelor's degree from [Zhejiang University](https://www.zju.edu.cn/english/).
 
-My research interests lie at the intersection of natural language processing (NLP) and Computational Social Science (CSS). Specifically, I am passionate about utilizing data-driven methods to support online safety and facilitate communications between people. 
+My research interests lie at the intersection of natural language processing (NLP) and Computational Social Science (CSS).
+I am passionate about conversational behaviors and anti-social computing.
+Specifically, my studies focus on modeling conversations from user-generated content to explain, predict, and prevent online incivility.
 
 
 
