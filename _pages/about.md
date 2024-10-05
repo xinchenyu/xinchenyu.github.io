@@ -26,6 +26,7 @@ Before that, I earned a Master's degree from [University of Pittsburgh](https://
 My research interests lie at the intersection of natural language processing (NLP) and Computational Social Science (CSS).
 I am passionate about conversational behaviors and anti-social computing.
 Specifically, my studies focus on modeling conversations from user-generated content to explain, predict, and prevent online incivility.
+For more information, please check my [CV](https://xinchenyu.github.io/assets/pdf/xinchen-cv.pdf).
 
 
 
