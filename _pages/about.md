@@ -25,7 +25,7 @@ Before that, I earned a Master's degree from [University of Pittsburgh](https://
 
 My research interests lie at the intersection of natural language processing (NLP) and Computational Social Science (CSS).
 I am passionate about **conversational behaviors** and **anti-social computing**.
-The primary goal is to **make computers understand and facilitate better communications** between people. 
+The primary goal is to make computers understand and facilitate better communications between people. 
 My latest work centers on explaining, predicting, and preventing incivility in user-generated content.
 For more information, please check my [CV](https://xinchenyu.github.io/assets/pdf/xinchen-cv.pdf).
 
