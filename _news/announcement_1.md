@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-10-08 
+date: 2024-11-06 
 inline: true
 related_posts: false
 ---
 
-Our paper on taxonomy of replies to hate speech has been accepted by **EMNLP 2023**! 
+I serve as Area Chair of the 31st International Conference on Computational Linguistics (**COLING 2025**). 
