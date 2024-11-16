@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper on taxonomy of replies to hate speech has been accepted by **EMNLP 2023**! 
+Our paper on `taxonomy of replies to hate speech` has been accepted by **EMNLP 2023**! 
