@@ -23,7 +23,7 @@ I am an Assistant Professor of Practice in the [Computer Science Department](htt
 I received my Ph.D. from [University of North Texas](https://informationscience.unt.edu/) in 2023.
 Before that, I earned a Master's degree from [University of Pittsburgh](https://www.sci.pitt.edu/) and a Bachelor's degree from [Zhejiang University](https://www.zju.edu.cn/english/).
 
-My research interests lie at the intersection of natural language processing (NLP) and Computational Social Science (CSS).
+My research interests lie at the intersection of natural language processing (NLP) and computational social science (CSS).
 I am passionate about **conversational behaviors** and **anti-social computing**.
 The primary goal is to make computers understand and facilitate better communications between people. 
 My latest work centers on explaining, predicting, and preventing incivility in user-generated content.
