@@ -19,15 +19,14 @@ social: true  # includes social icons at the bottom of the  page
 ---
 
 I am an Assistant Professor of Practice in the [Computer Science Department](https://www.cs.arizona.edu/) at the [University of Arizona](https://www.arizona.edu/).
-
-I received my Ph.D. from [University of North Texas](https://informationscience.unt.edu/) in 2023.
+I received my Ph.D. from [University of North Texas](https://informationscience.unt.edu/).
 Before that, I earned a Master's degree from [University of Pittsburgh](https://www.sci.pitt.edu/) and a Bachelor's degree from [Zhejiang University](https://www.zju.edu.cn/english/).
 
-My research interests lie at the intersection of natural language processing (NLP) and computational social science (CSS).
-I am passionate about **conversational behaviors** and **anti-social computing**.
-The primary goal is to make computers understand and facilitate better communications between people. 
-My latest work centers on explaining, predicting, and preventing incivility in user-generated content.
-For more information, please check my [CV](https://xinchenyu.github.io/assets/pdf/xinchen-cv.pdf).
+My research interests lie at the intersection of Natural Language Processing (NLP) and Computational Social Science (CSS).
+The primary goal is to make computers understand and facilitate better communications between people. My **research interests** involve:
 
+- conversational behaviors and outcomes using computational, statistical, and corpus-based methods
+- NLP applications for detecting and mitigating online incivility
+- social support in the context of information behaviors
 
 
