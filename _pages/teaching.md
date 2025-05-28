@@ -10,7 +10,7 @@ nav_order: 3
     * [CSC 110 Introduction to Computer Programming I](https://xinchenyu.github.io/csc110/)
         * Spring 2024, 2025
         * Fall 2023, 2024, 2025
-    * [CSC 380 Principle of Data Science]()
+    * [CSC 380 Principle of Data Science](https://xinchenyu.github.io/csc380/)
         * Spring 2024
         * Fall 2023, 2025 
 
