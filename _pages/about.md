@@ -18,15 +18,15 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the  page
 ---
 
-I am an Assistant Professor of Practice in the [Computer Science Department](https://www.cs.arizona.edu/) at the [University of Arizona](https://www.arizona.edu/).
-I received my Ph.D. from [University of North Texas](https://informationscience.unt.edu/).
-Before that, I earned a Master's degree from [University of Pittsburgh](https://www.sci.pitt.edu/) and a Bachelor's degree from [Zhejiang University](https://www.zju.edu.cn/english/).
+I am an Assistant Professor of Practice in the [Department of Computer Science](https://www.cs.arizona.edu/) at the [University of Arizona](https://www.arizona.edu/).
+I obtained my Ph.D. from the [Department of Information Science](https://informationscience.unt.edu/) at the University of North Texas.
 
-My research interests lie at the intersection of Natural Language Processing (NLP) and Computational Social Science (CSS).
-The primary goal is to make computers understand and facilitate better communications between people. My **research interests** involve:
+My research lies at the intersection of Natural Language Processing (NLP) and Computational Social Science (CSS).
+The primary goal of my research is to enable computers to understand human behavior in conversations and promote better communication outcomes. 
 
-- conversational behaviors and outcomes using computational, statistical, and corpus-based methods
-- NLP applications for detecting and mitigating online incivility
-- social support in the context of information behaviors
+My **research interests** involve:
+- `[Behaviors]` I develop robust AI models to identify individual conversational behaviors (e.g., hate speech, counterspeech, self-disclosure, social support). 
+- `[Conversational Outcomes]` I explore novel methods to measure and forecast collective behaviors as conversational outcomes (e.g., conversation incivility).
+- `[Behaviors⟹Conversational Outcomes]` I investigate how individual behaviors, and their interactions with broader social contexts (e.g., community norms) or information environments (e.g., media bias), shape conversational outcomes.
 
 
